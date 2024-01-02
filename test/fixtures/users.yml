@@ -3,9 +3,9 @@
 one:
   email: MyString
   name: MyString
-  password_diigest: MyString
+  password_digest: MyString
 
 two:
   email: MyString
   name: MyString
-  password_diigest: MyString
+  password_digest: MyString
